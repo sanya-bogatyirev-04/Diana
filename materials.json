@@ -8,11 +8,11 @@
     "mortar_rate": 0.23
   },
   "блок": {
-    "name": "Блок керамический",
-    "length": 0.51,
-    "width": 0.25,
-    "height": 0.219,
-    "gost": "ГОСТ 530-2012",
-    "mortar_rate": 0.23
+    "name": "Блок",
+    "length": 0.39,
+    "width": 0.29,
+    "height": 0.188,
+    "gost": "ГОСТ 33126-2014",
+    "mortar_rate": 0.035
   }
 }
